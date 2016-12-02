@@ -1,0 +1,3 @@
+rootProject.name = 'pushCompentHiddenTab'
+
+include ':app'
